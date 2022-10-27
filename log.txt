@@ -1,0 +1,3 @@
+INFO:root:Scrapping at 2022-10-14 03:21:33.080210
+INFO:root:Saved to db at 2022-10-14 03:21:53.964656
+ERROR:root:Error scrapping at 2022-10-14 03:23:52.014440, error: HTTPSConnectionPool(host='www.lavieeco.com', port=443): Max retries exceeded with url: /economie/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015F7E292A00>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
